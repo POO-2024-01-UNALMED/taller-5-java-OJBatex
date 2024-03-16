@@ -49,7 +49,7 @@ public class Mamifero extends Animal {
 		Mamifero.listado = listado;
 	}
 	
-	public boolean getPelaje() {
+	public boolean isPelaje() {
 		return pelaje;
 	}
 	
